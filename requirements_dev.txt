@@ -1,3 +1,4 @@
 -r requirements.txt
 flake8>=3.7.9
 Sphinx>=3.0.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
